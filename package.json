@@ -1,5 +1,5 @@
 {
-  "name": "ecsy",
+  "name": "ecsz",
   "version": "0.4.2",
   "description": "Entity Component System in JS",
   "main": "src/index.ts",
